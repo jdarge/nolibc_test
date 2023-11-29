@@ -1,3 +1,5 @@
+// https://www.reddit.com/r/C_Programming/comments/se3kgi/hello_world_without_libc/
+
 #define STDOUT 1
  
 #define SYS_write 1
